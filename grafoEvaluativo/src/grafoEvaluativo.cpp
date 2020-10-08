@@ -3,7 +3,7 @@
 // Author      : EMIT
 // Version     :
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Construccion de un grafo que describe el tiempo de vuelo entre ciudades
 //============================================================================
 
 #include <iostream>
